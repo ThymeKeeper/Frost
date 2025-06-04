@@ -50,7 +50,7 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
 - This is a personal project; it's rough around the edges, but i'll be polishing it and adding features over time.
 - Build with "cargo build --release --bins ; if ($?) { cargo run --release }"
 - The application won't launch unless the two binaries ("Frost", and "Frost-Crawler") are in the same directory as "Frost.Toml"
-- the application will generate a template TOML file upon first launch, but the program won't run until you configure the ODBC connection string; Example:
+- The application will generate a template TOML file upon first launch, but the program won't run until you configure the ODBC connection string; Example:
   ```toml
   connection_string = """
   Driver=SnowflakeDSIIDriver;
