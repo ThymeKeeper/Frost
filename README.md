@@ -44,8 +44,10 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
 
 ![screenshot2](https://github.com/user-attachments/assets/3088c40d-a3e6-4d85-8c51-4c1a27c7fa3a)
 
+![screenshot3](https://github.com/user-attachments/assets/d9b139d9-d48e-4c1b-9911-00ae0553b86e)
+
 ### Notes
-- this is a personal project; it's rough around the edges, but i'll be polishing it over time.
+- this is a personal project; it's rough around the edges, but i'll be polishing it and adding features over time.
 - Build with "cargo build --release --bins ; if ($?) { cargo run --release }"
 - The application won't launch unless the two binaries ("Frost", and "Frost-Crawler") are in the same directory as "Frost.Toml"
 - You must configure your ODBC connection string in Frost.Toml before the application can run.
