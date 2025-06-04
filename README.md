@@ -45,6 +45,7 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
 ![screenshot2](https://github.com/user-attachments/assets/3088c40d-a3e6-4d85-8c51-4c1a27c7fa3a)
 
 ### Notes
-- build with "cargo build --release --bins ; if ($?) { cargo run --release }"
-- best viewed with a nerd font such as FiraMono
-- if you come across any rendering glitches, double tap F1 to re-draw the screen.
+- Build with "cargo build --release --bins ; if ($?) { cargo run --release }"
+- Best viewed with a nerd font such as FiraMono.
+- If you come across any rendering glitches, double tap F1 to re-draw the screen.
+- This has only been tested in Windows Terminal, though there is some untested Ubuntu support built in.
