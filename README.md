@@ -58,6 +58,7 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
   UID=your.email@example.com;
   Authenticator=externalbrowser;
   """
+- Requires Snowflake ODBC driver to be installed
 - Best viewed with a nerd font such as FiraMono.
 - If you come across any rendering glitches, double tap F1 to re-draw the screen.
 - This has only been tested in Windows Terminal, though there is some untested Ubuntu support built in.
