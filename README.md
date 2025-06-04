@@ -40,9 +40,9 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
 
 ## Screenshots
 
-![screenshot1](https://github.com/user-attachments/assets/396baa71-a344-4374-812d-7de61fdb6b49)
+![screenshot1](https://github.com/user-attachments/assets/5e7dbf65-62b8-40ee-9d6f-e8aba5d381c0)
 
-![screenshot2](https://github.com/user-attachments/assets/3088c40d-a3e6-4d85-8c51-4c1a27c7fa3a)
+![screenshot2](https://github.com/user-attachments/assets/7e9e6999-e69a-4d6a-b15a-74f4e49c3ec7)
 
 ![screenshot3](https://github.com/user-attachments/assets/d9b139d9-d48e-4c1b-9911-00ae0553b86e)
 
