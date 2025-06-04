@@ -47,10 +47,15 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
 ![screenshot3](https://github.com/user-attachments/assets/d9b139d9-d48e-4c1b-9911-00ae0553b86e)
 
 ### Notes
-- this is a personal project; it's rough around the edges, but i'll be polishing it and adding features over time.
+- This is a personal project; it's rough around the edges, but i'll be polishing it and adding features over time.
 - Build with "cargo build --release --bins ; if ($?) { cargo run --release }"
 - The application won't launch unless the two binaries ("Frost", and "Frost-Crawler") are in the same directory as "Frost.Toml"
 - You must configure your ODBC connection string in Frost.Toml before the application can run.
 - Best viewed with a nerd font such as FiraMono.
 - If you come across any rendering glitches, double tap F1 to re-draw the screen.
 - This has only been tested in Windows Terminal, though there is some untested Ubuntu support built in.
+
+### Current punchlist:
+- Remove console print statements that litter the TUI during DB refresh
+- Add autocomplete feature
+- Add more buffer motions
