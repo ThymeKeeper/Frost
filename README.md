@@ -33,12 +33,12 @@ A blazingly fast, lightweight, Terminal User Interface (TUI) IDE for Snowflake, 
 - Insert table and columns into the editor
 - Find matching strings within the navigator
 
-### 🔧 Other Features
+### Other Features
 - **Batch Mode** - output a batch file to automate running sql files
 - **Background Schema Crawler** - Keeps schema information up-to-date
 - **Configurable Themes** - Customize colors via TOML configuration
 
-## 📸 Screenshots
+## Screenshots
 
 ![screenshot1](https://github.com/user-attachments/assets/396baa71-a344-4374-812d-7de61fdb6b49)
 
